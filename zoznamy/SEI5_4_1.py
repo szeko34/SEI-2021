@@ -1,4 +1,5 @@
 # Tu napíšte svoj kód :-)
+#úvod do práce so súborom, otvorenie súboru a hľadanie zoznamu najdlhších riadkov
 subor=open("vstup.txt","r")
 
 """
